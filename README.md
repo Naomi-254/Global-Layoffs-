@@ -1,2 +1,3 @@
-# WORLD'S LAYOFFS DURING COVID 19
+# Global Layoffs During COVID-19
 
+### Project Overview
