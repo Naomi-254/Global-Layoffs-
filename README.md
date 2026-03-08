@@ -28,7 +28,7 @@ Before visualization, I performed a rigorous 5-step cleaning process in **SQL** 
 ---
 
 ## 📊 Visual Gallery
-*(Replace with your actual GitHub image links)*
+
 ![Yearly Trends](https://github.com/user-attachments/assets/fe49a743-7b08-41bb-997c-3570d725a35d)
 ![Industry Impact](https://github.com/user-attachments/assets/9168a34c-b234-44ca-b4df-f53c2bad596e)
 
